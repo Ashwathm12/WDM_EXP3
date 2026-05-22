@@ -116,7 +116,8 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
-<img width="580" height="286" alt="image" src="https://github.com/user-attachments/assets/0d2d482d-bb6b-4af0-8955-2053cf710205" />
+<img width="550" height="222" alt="image" src="https://github.com/user-attachments/assets/7fff3361-788b-4f42-b32d-85c350c07747" />
+
 
 ### Visualization:
 ```python
